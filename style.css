@@ -4,7 +4,12 @@
     background-color: #000004;
     color: #FBFEF9;
 }
-section, main{
+section{
+    margin: 5vw;
+    margin-top: 0vw;
+} 
+main{
+    letter-spacing: 1.5px;
     margin: 5vw;
     margin-top: 0vw;
 }
