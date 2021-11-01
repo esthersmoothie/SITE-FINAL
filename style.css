@@ -17,6 +17,7 @@ iframe {
    display: block;
    margin: 0 auto;
    text-aling: center;
+   left: 50%
 }
 footer{
     width: 600px ;
