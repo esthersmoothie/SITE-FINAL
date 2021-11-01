@@ -54,7 +54,10 @@ li :hover{
     border-bottom: solid 1px #acadaa;
 }
 #trailer{
-    float: right
+    float: right;
+    margin-right: 35px;
+    margin-left: 15px;
+    margin-top: 20px;
 }
 #title{
     font-size: 30px;
