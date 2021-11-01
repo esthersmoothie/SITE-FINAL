@@ -6,6 +6,7 @@
 }
 section, main{
     margin: 5vw;
+    margin-top: 0vw;
 }
 footer{
     width: 600px ;
